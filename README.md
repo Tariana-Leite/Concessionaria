@@ -1,5 +1,5 @@
 # Dealership Project
-This repository is part of a project developed in partnership with @summonsumo and @hudson-mesquita in a course using the Databricks platform.
+This repository is part of a project developed in partnership with @summonsumo and -- in a course using the Databricks platform.
 
 
 ## Architecture
